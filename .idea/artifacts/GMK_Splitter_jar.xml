@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GMK-Splitter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GMK_Splitter_jar</output-path>
+    <root id="archive" name="GMK-Splitter.jar">
+      <element id="module-output" name="GMK-Splitter" />
+    </root>
+  </artifact>
+</component>
